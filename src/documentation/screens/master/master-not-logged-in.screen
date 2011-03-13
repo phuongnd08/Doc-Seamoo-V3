@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" x="99" y="3" measuredWidth="798" measuredHeight="1022">
+    <screen href="master-skeleton.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="759" y="3" text="Login,About,FAQ" measuredWidth="134" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="249"/>
+  </vRuler>
+  <font/>
+</model:Screen>

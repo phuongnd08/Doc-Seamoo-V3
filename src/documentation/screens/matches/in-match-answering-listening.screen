@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" x="176" y="40" measuredWidth="803" measuredHeight="1024">
+    <screen href="in-match-answering-master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="468" y="380" width="493" height="22" measuredWidth="493" measuredHeight="22"/>
+  <widgets xsi:type="model:Label" x="474" y="380" width="290" text="*Cau hoi* (1/20) [Grammar]" measuredWidth="290" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="468" y="406" width="492" height="44" measuredWidth="492" measuredHeight="44"/>
+  <widgets xsi:type="model:Text" x="474" y="416" width="475" text="Listening to the audio {play}{pause}" measuredWidth="475" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="468" y="457" width="493" height="22" measuredWidth="493" measuredHeight="22"/>
+  <widgets xsi:type="model:Label" x="474" y="457" width="290" text="*Gõ ra những gì bạn nghe được*" measuredWidth="290" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="468" y="518" text="Bo qua >>" measuredWidth="91" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="468" y="489" width="406" text="..." measuredWidth="406" measuredHeight="25"/>
+  <widgets xsi:type="model:Button" x="883" y="488" text="Xác nhận" measuredWidth="80" measuredHeight="27">
+    <font/>
+  </widgets>
+  <hRuler>
+    <guides position="447"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>

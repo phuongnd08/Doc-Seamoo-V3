@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" x="176" y="32" measuredWidth="803" measuredHeight="1024">
+    <screen href="view-question-qualified-member-master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="184" y="256" measuredWidth="784" measuredHeight="162">
+    <screen href="../partial/partial-view-listening.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="912" y="312" text="{edit}{flag}{bell}" measuredWidth="48" measuredHeight="16">
+    <font/>
+  </widgets>
+  <hRuler>
+    <guides position="447"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>

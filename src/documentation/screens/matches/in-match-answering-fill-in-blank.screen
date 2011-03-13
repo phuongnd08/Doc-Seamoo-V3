@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" x="176" y="40" measuredWidth="803" measuredHeight="1024">
+    <screen href="in-match-answering-master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="466" y="382" width="493" height="22" measuredWidth="493" measuredHeight="22"/>
+  <widgets xsi:type="model:Label" x="472" y="382" width="290" text="*Cau hoi* (1/20) [Grammar]" measuredWidth="290" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="466" y="408" width="492" height="44" measuredWidth="492" measuredHeight="44"/>
+  <widgets xsi:type="model:Text" x="472" y="418" width="475" text="What is the proper preposition here:&#xA;I look \[...\] her" measuredWidth="475" measuredHeight="34">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="466" y="459" width="493" height="22" measuredWidth="493" measuredHeight="22"/>
+  <widgets xsi:type="model:Label" x="472" y="459" width="290" text="*Dien cau tra loi dung*" measuredWidth="290" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="466" y="520" text="Bo qua >>" measuredWidth="91" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="466" y="491" width="430" text="Text field" measuredWidth="430" measuredHeight="25"/>
+  <widgets xsi:type="model:Button" x="904" y="490" text="Tra loi" measuredWidth="59" measuredHeight="27">
+    <font/>
+  </widgets>
+  <hRuler>
+    <guides position="447"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>

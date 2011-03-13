@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" x="318" y="185" measuredWidth="798" measuredHeight="1022">
+    <screen href="../master/master-not-logged-in.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="344" y="368" width="281" height="145" measuredWidth="281" measuredHeight="145" background="#e5e5e5"/>
+  <widgets xsi:type="model:Image" x="354" y="378" measuredWidth="64" measuredHeight="48" src="../images/funny-baby.jpg"/>
+  <widgets xsi:type="model:Text" x="424" y="378" width="191" height="90" text="[English]&#xA;Bạn biết và nhận diện bao nhiêu từ tiếng Anh? Bạn có thể nghe, ráp một câu tiếng anh hoàn chỉnh? Câu trả lời sẽ có ở đây" measuredWidth="191" measuredHeight="90">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="664" y="368" width="289" height="145" measuredWidth="289" measuredHeight="145" background="#e5e5e5"/>
+  <widgets xsi:type="model:Image" x="675" y="382" width="72" height="70" measuredWidth="72" measuredHeight="70" src="../images/funny-baby.jpg"/>
+  <widgets xsi:type="model:Text" x="753" y="382" width="200" height="91" text="[Toán học]&#xA;Bạn am hiểu bao nhiêu nguyên lí toán học? Tốc độ phán đoán và luận logic của bạn? Câu trả lời sẽ có ở đây" measuredWidth="200" measuredHeight="91">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="352" y="328" text="Những nội dung đang được triển khai trong hệ thống thi đấu của dautri.net" measuredWidth="511" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="352" y="274" text="Hệ thống thi đấu" measuredWidth="421" measuredHeight="59">
+    <font size="32"/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="552" y="478" width="66" text="Tham gia" measuredWidth="66" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="877" y="478" width="66" text="Tham gia" measuredWidth="66" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

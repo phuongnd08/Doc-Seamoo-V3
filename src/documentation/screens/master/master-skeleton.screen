@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Placeholder" x="99" y="128" width="798" height="945" measuredWidth="798" measuredHeight="945"/>
+  <widgets xsi:type="model:Panel" x="99" y="51" width="235" height="68" measuredWidth="235" measuredHeight="68" background="#090ff9"/>
+  <widgets xsi:type="model:Text" x="116" y="61" text="DAUTRI.NET" measuredWidth="160" measuredHeight="32" foreground="#ffffff">
+    <font size="20" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="109" y="96" text="Cùng nhau chinh phục tri thức" measuredWidth="203" measuredHeight="15" foreground="#fdfa00">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="581" y="94" width="133" text="Hệ thống thi đấu" measuredWidth="133" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="720" y="94" width="94" text="Thành viên" measuredWidth="94" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="117" y="1016" text="blog,fag,about,discussion" measuredWidth="217" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" x="113" y="1001" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" x="767" y="1016" measuredWidth="120" measuredHeight="30" src="../images/appengine-silver-120x30.gif"/>
+  <widgets xsi:type="model:Button" x="821" y="94" width="72" text="Luyện tâp" measuredWidth="72" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
